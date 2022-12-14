@@ -1,0 +1,1 @@
+In a seperate CSS file we will have to make the the file responsive 
